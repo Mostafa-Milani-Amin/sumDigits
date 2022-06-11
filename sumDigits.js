@@ -1,0 +1,1 @@
+const sumDigits = n => (--n % 9) + 1;
